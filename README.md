@@ -54,7 +54,8 @@ This script includes the following queries:
 *(Screenshots of schema and query outputs will be added here)*
 
 ### 1. Employee Table
-![Employee Table](screenshots/employee_table.png)
+![Department Table](screenshots/Department%20Table.png)
+
 
 ### 2. Department Table
 ![Department Table](screenshots/department_table.png)
